@@ -1,0 +1,3 @@
+gcc pagerank.c -o pagerank 
+
+./pagerank url.txt top10.txt
